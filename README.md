@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rabia</h1>
 <h3 align="center">A passionate junior frontend developer from Turkey</h3>
